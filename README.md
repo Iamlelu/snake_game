@@ -10,4 +10,4 @@ Use arrow keys to control the snake
 Features
  1. Score update
  2. Snake growth
- 3. High score displyer
+ 3. High score displayer
