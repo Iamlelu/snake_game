@@ -12,4 +12,4 @@ Features
  2. Snake growth
  3. High score displayer
 
-![snake_image]()
+![snake_image](snake_image2.png)
