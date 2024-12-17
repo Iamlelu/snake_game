@@ -5,3 +5,4 @@ To show case
            2. File handling
            3. GUI with turtle
            
+Use arrow keys to control the snake
