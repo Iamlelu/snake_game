@@ -13,3 +13,6 @@ Features
  3. High score displayer
 
 ![snake_image](snake_image2.png)
+![snake_image](snake_image.png
+)
+
