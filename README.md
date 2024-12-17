@@ -6,6 +6,7 @@ To show case
 
            
 Use arrow keys to control the snake
+
 Features
  1. Score update
  2. Snake growth
