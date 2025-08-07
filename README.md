@@ -1,5 +1,5 @@
 # snake_game
-This is a simple snake game built with python using turtle graphics
+A snake game built with python using turtle graphics
 To show case  
            1. Classes and objects
            2. File handling
